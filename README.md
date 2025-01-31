@@ -59,5 +59,5 @@ The comparative analysis revealed:
    - Not Anxious: 0.1079
    - Anxious: 0.8921
 
-### Conclusion
+## Conclusion
 This project highlights the use of Probabilistic Graphical Models (PGMs) for understanding and predicting postnatal depression. The analysis compares two structure learning methods: Tree-Based Bayesian Networks and Hill Climb Search-Based Networks. The results show a significant difference in accuracy between the two models, with the Hill Climb Search-Based Network achieving a much higher accuracy. The study also provides valuable insights into the conditional dependencies among variables and demonstrates the effectiveness of variable elimination for inference. Overall, this project contributes to understanding the application of PGMs in healthcare, especially in predicting mental health conditions such as postnatal depression.
