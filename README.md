@@ -61,7 +61,7 @@ The comparative analysis revealed:
 
 ## Conclusion
 - This project demonstrates the use of Probabilistic Graphical Models (PGMs) to predict postnatal depression.
-- **Hill Climb Search-Based Network** outperformed the **Tree-Based Bayesian Network** in accuracy (~99.59% vs. ~61.50%).
+- **Hill Climb Search-Based Network** outperformed the **Tree-Based Bayesian Network** in accuracy (~97.25% vs. ~93-67%).
 - Significant conditional dependencies were found between variables.
 - Effective variable elimination techniques were applied for inference.
 - The analysis highlights PGMs potential in healthcare, particularly for predicting mental health conditions.
